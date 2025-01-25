@@ -24,7 +24,9 @@ The sales data is stored in a CSV file named sales_data.csv. The file contains t
 Order Date: The date of the sale (format: YYYY-MM-DD).
 
 Product Name: The name of the product sold.
+
 Sales: The total sales amount for the product.
+
 Running the Analysis
 To run the analysis, execute the following command in your terminal or command prompt:
 python sales_analysis.py
