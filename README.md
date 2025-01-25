@@ -50,7 +50,10 @@ Order Date,Product Name,Sales
 2024-04-15,kids tshirt,700
 2024-05-20,Smartwatch,800
 2024-05-25,home decore,900
-![image](https://github.com/user-attachments/assets/1939799f-1f66-437f-91de-7e2a4b6a3585)
-![image](https://github.com/user-attachments/assets/e22f369e-86fd-4bd2-960e-ae4ca18df01b)
+![406678878-1939799f-1f66-437f-91de-7e2a4b6a3585](https://github.com/user-attachments/assets/033cf2f7-22e1-49ca-8814-daef13f2a8b6)
+
+![406678878-1939799f-1f66-437f-91de-7e2a4b6a3585](https://github.com/user-attachments/assets/8104d077-7698-4783-9cf5-838762aa0d78)
+
+
 
 
