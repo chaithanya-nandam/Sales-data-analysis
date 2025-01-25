@@ -52,7 +52,8 @@ Order Date,Product Name,Sales
 2024-05-25,home decore,900
 ![406678878-1939799f-1f66-437f-91de-7e2a4b6a3585](https://github.com/user-attachments/assets/033cf2f7-22e1-49ca-8814-daef13f2a8b6)
 
-![406678878-1939799f-1f66-437f-91de-7e2a4b6a3585](https://github.com/user-attachments/assets/8104d077-7698-4783-9cf5-838762aa0d78)
+![406678934-e22f369e-86fd-4bd2-960e-ae4ca18df01b](https://github.com/user-attachments/assets/530e73ae-ab4e-4d50-81cc-c041800c9fcb)
+
 
 
 
