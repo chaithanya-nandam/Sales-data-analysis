@@ -29,7 +29,9 @@ Sales: The total sales amount for the product.
 
 Running the Analysis
 To run the analysis, execute the following command in your terminal or command prompt:
+
 python sales_analysis.py
+
 Output
 The script will generate the following visualizations:
 
