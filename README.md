@@ -22,6 +22,7 @@ Data
 The sales data is stored in a CSV file named sales_data.csv. The file contains the following columns:
 
 Order Date: The date of the sale (format: YYYY-MM-DD).
+
 Product Name: The name of the product sold.
 Sales: The total sales amount for the product.
 Running the Analysis
