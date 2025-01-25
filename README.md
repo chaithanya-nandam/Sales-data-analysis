@@ -16,7 +16,8 @@ Before running the project, ensure you have the following installed:
 - Pip (Python package installer)
 
 Install the required libraries using pip:
-*pip install pandas matplotlib seaborn
+
+pip install pandas matplotlib seaborn
 Data
 The sales data is stored in a CSV file named sales_data.csv. The file contains the following columns:
 
